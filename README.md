@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tonyfromvietnam
-- 👀 I’m interested in video making and AI, as well as security in computer science.
+- 👀 I’m interested Data Science & Football.
 - 🌱 I’m currently learning BSc Computer Science at Queen Mary University of London.
-- 💞️ I’m looking to collaborate on maybe codewars, challenges to earn some experience.
-- 📫 How to reach me: chinhdinhduy6@gmail.com
+- 💞️ I’m looking for internships that would allow me to build a solid foundation of Data Science.
+- 📫 How to reach me: chinh.dinhduy03@gmail.com
 
 <!---
 tonyfromvietnam/tonyfromvietnam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
