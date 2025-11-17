@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @tonyfromvietnam
-- 👀 I’m interested Data Science & Football.
-- 🌱 I’m currently learning BSc Computer Science at Queen Mary University of London.
-- 💞️ I’m looking for internships that would allow me to build a solid foundation of Data Science.
-- 📫 How to reach me: chinh.dinhduy03@gmail.com
-- https://www.linkedin.com/in/duychinhdinh/
+Hi there, I'm Tony 👋
+I'm a CRM/Data Analyst at Pivotal Partners, where I use data to help high-growth software companies scale their Go-To-Market, Product, and Customer Success functions.
 
-<!---
-tonyfromvietnam/tonyfromvietnam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My core passion is acting as the "bridge" between Business, Technology, and People. I thrive on turning complex data into clear, human-centric insights that make systems smarter and faster.
+
+🔬 Currently: Building objective, statistical performance models for People Analytics (Python, Pandas, & Plotly).
+
+🎓 Background: BSc Computer Science @ Queen Mary University of London.
+
+🚗 Previously: IT @ Volkswagen Group UK, managing commercial contracts and optimizing processes.
+
+⚽ Interests: Data Science, People Analytics, and Football.
+
+📫 Connect with me:
+
+📧 Email: tony@pivotalpartners.io
+
+LinkedIn: https://www.linkedin.com/in/duychinhdinh/
