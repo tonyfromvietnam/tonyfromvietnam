@@ -1,5 +1,5 @@
 Hi there, I'm Tony 👋
-I'm a CRM/Data Analyst at Pivotal Partners, where I use data to help high-growth software companies scale their Go-To-Market, Product, and Customer Success functions.
+I'm a Senior Data Analyst at Pivotal Partners, where I use data to help high-growth software companies scale their Go-To-Market, Product, and Customer Success functions.
 
 My core passion is acting as the "bridge" between Business, Technology, and People. I thrive on turning complex data into clear, human-centric insights that make systems smarter and faster.
 
