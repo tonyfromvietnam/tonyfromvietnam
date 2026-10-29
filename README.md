@@ -2,7 +2,7 @@
 
 **Systems Architect & Strategic Connector**
 
-I operate at the intersection of **Business, Technology, and People** — transforming complex data frameworks into automated workflows, clear analytics, and human-centric insights that help teams scale faster and smarter.
+I operate at the intersection of **Business, Technology, and People** - transforming complex data frameworks into automated workflows, clear analytics, and human-centric insights that help teams scale faster and smarter.
 
 ---
 
